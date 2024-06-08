@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="user_name">Name</string>
+    <string name="img_profile">Profile</string>
+    <string name="tv_name">Username</string>
+    <string name="tv_login">Login</string>
+    <string name="tv_followers">n Followers</string>
+    <string name="tv_following">n Following</string>
+    <string name="ph_search">Search Here</string>
+    <string name="fav">Favorite</string>
+    <string name="menu_user_favorite">User Favorite</string>
+    <string name="menu_dark_mode">Dark Mode</string>
+    <string name="theme">Theme Apps</string>
+    <string name="theme_auto">Auto</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
